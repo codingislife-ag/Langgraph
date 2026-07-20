@@ -1,2 +1,14 @@
 myenv/
 .env
+
+# OS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# SQLite (chatbot persistence)
+*.db
+*.db-shm
+*.db-walc
